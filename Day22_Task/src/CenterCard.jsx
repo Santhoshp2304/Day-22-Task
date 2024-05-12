@@ -6,7 +6,7 @@ function CenterCard() {
     <div className="card text-left">
       <div className="card-body">
        <div className='text-center'>
-        <div>PLUS</div>
+        <div className='fw-light'>PLUS</div>
         <div className='fs-1'><b>$9/month</b></div>
         </div>
         <hr />

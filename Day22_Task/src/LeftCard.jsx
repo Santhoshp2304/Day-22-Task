@@ -6,7 +6,7 @@ function LeftCard() {
       <div className="card text-left">
         <div className="card-body">
          <div className='text-center'>
-          <div>FREE</div>
+          <div className='fw-light'>FREE</div>
           <div className='fs-1'><b>$0/month</b></div>
           </div>
           <hr />
